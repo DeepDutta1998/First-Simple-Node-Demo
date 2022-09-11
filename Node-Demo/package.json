@@ -1,0 +1,19 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Node-Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "modules"
+  ],
+  "author": "Deep Dutta",
+  "license": "MIT",
+  "dependencies": {
+    "cli-color": "^2.0.3"
+  }
+}
